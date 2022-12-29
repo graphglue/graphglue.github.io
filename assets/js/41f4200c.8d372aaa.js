@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[12273],{26902:e=>{e.exports=JSON.parse('{"title":"graphglue-core","slug":"api/graphglue-core","permalink":"/api/graphglue-core","navigation":{"next":{"title":"io.github.graphglue","permalink":"/api/graphglue-core/io.github.graphglue/index-"}}}')}}]);
